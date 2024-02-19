@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Header](https://github.com/laytiz/laytiz/blob/main/assets/955DE3AF-2C63-44EE-BC61-BAF3E657B984.gif)](https://t.me/ArtemCodes)
+
 <!--
 **laytiz/laytiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
